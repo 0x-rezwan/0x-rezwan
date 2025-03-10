@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://dev.to/0x-rezwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0x-rezwan" height="30" width="40" /></a>
 <a href="https://twitter.com/rezwan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rezwan0x01" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rezwan0x01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rezwan0x01/" height="30" width="40" /></a>
+<a href="https://fb.com/rezwan0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezwan0x01" height="30" width="40" /></a>
 <a href="https://medium.com/@rezwan.mahmud.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rezwan.mahmud.404" height="30" width="40" /></a>
 <a href="/https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://stackoverflow.com/" height="30" width="40" /></a>
 </p>
